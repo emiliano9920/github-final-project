@@ -1,12 +1,16 @@
-# github-final-project
-# Calculadora de Interés Simple
+# Introduction to Git and GitHub
 
-Una calculadora que calcula el interés simple dado el capital, la tasa de interés anual y el período de tiempo en años.
+## Simple Interest Calculator
 
-## Entrada:
-- `p`, cantidad principal
-- `t`, período de tiempo en años
-- `r`, tasa de interés anual
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Salida:
-- Interés simple = p * t * r
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
+_© 2023 XYZ, Inc._
